@@ -50,6 +50,7 @@ nav ul li {
 }
 
 nav ul li a {
+    /* color: #fff; */
     color: #000000;
     font-size: 1.1em;
     text-transform: uppercase;
@@ -65,6 +66,7 @@ nav ul li a:hover {
 }
 
 nav .icon {
+    /* color: #fff; */
     color: #000000;
     font-size: 1.5em;
     line-height: 80px;
@@ -76,6 +78,7 @@ nav .icon {
 }
 
 nav .iconClose {
+    /* color: #fff; */
     color: #000000;
     font-size: 1.5em;
     line-height: 80px;
@@ -123,6 +126,7 @@ nav .iconClose {
         /* main */
         left: -100%;
         text-align: center;
+        
 
         transition: 0.3s all ease-in;
         z-index: 100;
@@ -141,6 +145,7 @@ nav .iconClose {
 
     nav ul li a {
         font-size: 0.9em;
+        color: #fff;
     }
 
     nav ul li a.active,
